@@ -78,7 +78,7 @@ SELECT
 FROM inventory
 GROUP BY film_id;
     
---9. For each month, display the total payments and average payment value per customer. Round values to 0 and 2 decimal places, consequently.
+--9. For each month, display the total payments and average payment value per customer. Round values to 0 and 2 decimal places for total and average payments value, respectively.
 
 SELECT  
   strftime('%Y-%m', payment_date) AS 'Date',
