@@ -1,5 +1,5 @@
 --Dataset: https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database
---Queried using sqlite3 library in python
+--Queried using sqlite3 library in Python
 
 --1. Retrieve First name and Last name of all actors.
 
